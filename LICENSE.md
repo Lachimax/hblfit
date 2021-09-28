@@ -1,3 +1,8 @@
+# Paper:
+"Data analysis recipes: Fitting a model to data" is copyright 2010 to the authors,
+and is redistributed here according to the terms specified on page 39 of the paper.
+
+# Code:
 
 CC0 1.0 Universal
 
